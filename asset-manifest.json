@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TODOMachine/static/css/main.8fd7583c.css",
+    "main.js": "/TODOMachine/static/js/main.47a7c08d.js",
+    "index.html": "/TODOMachine/index.html",
+    "static/media/delete.svg": "/TODOMachine/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/TODOMachine/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.8fd7583c.css.map": "/TODOMachine/static/css/main.8fd7583c.css.map",
+    "main.47a7c08d.js.map": "/TODOMachine/static/js/main.47a7c08d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd7583c.css",
+    "static/js/main.47a7c08d.js"
+  ]
+}
